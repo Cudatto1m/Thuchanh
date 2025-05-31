@@ -1,2 +1,0 @@
-# Thuchanh
-Để thực hành 
